@@ -21,6 +21,8 @@ class CalculatePage extends State<Calculate> {
   bool flagMultiply = false;
   bool flagMinus = false;
   bool flagPlus = false;
+
+
   CalType type = CalType.None;
 
   @override
